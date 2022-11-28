@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f0292c8d2ac956",
+        "id": "95bad0de7cb456e5",
         "type": "tabs",
         "children": [
           {
-            "id": "12b060c26d43ba64",
+            "id": "ef342054f57b82f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f7a404777569898a",
+            "id": "5e57012af966a5d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Processing.md",
+                "file": "Grooking Deep Learning Notes Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,22 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "95bad0de7cb456e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef342054f57b82f1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-11-26 21.52.44.excalidraw.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Processing.md",
+                "file": "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Processing.md",
+                "file": "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Processing.md"
+                "file": "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md"
               }
             }
           }
@@ -165,10 +149,51 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7a404777569898a",
+  "floating": {
+    "id": "683de430b5830081",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ef56f5cbce08d0e4",
+        "type": "window",
+        "children": [
+          {
+            "id": "9987ffb689c729c9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4cbf72869e217e9",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 11,
+        "y": 31,
+        "width": 666,
+        "height": 726,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d4cbf72869e217e9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-11-26 21.52.44.excalidraw.md",
+    "Grooking Deep Learning Notes Chapter 1.md",
+    "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
+    "Pasted image 20221128210030.png",
+    "Pasted image 20221128210324.png",
+    "Grooking Deep Learning Notes.md",
+    "README.md",
+    "grokking-deep-learning.pdf",
     "Data Processing.md",
-    "README.md"
+    "Excalidraw/Drawing 2022-11-26 21.52.44.excalidraw.md"
   ]
 }
