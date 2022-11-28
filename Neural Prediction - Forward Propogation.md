@@ -1,0 +1,1 @@
+![[Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw]]
