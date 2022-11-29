@@ -154,35 +154,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "ef56f5cbce08d0e4",
-        "type": "window",
-        "children": [
-          {
-            "id": "9987ffb689c729c9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d4cbf72869e217e9",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 11,
-        "y": 31,
-        "width": 666,
-        "height": 726,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
         "id": "42423e57a8901e8e",
         "type": "window",
         "children": [
@@ -206,23 +177,23 @@
         "direction": "vertical",
         "x": 11,
         "y": 31,
-        "width": 666,
+        "width": 1344,
         "height": 726,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "5e57012af966a5d6",
   "lastOpenFiles": [
-    "Grooking Deep Learning Notes.md",
-    "Excalidraw/Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw.md",
     "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
+    "Excalidraw/Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw.md",
+    "README.md",
+    "Grooking Deep Learning Notes.md",
     "Grooking Deep Learning Notes Chapter 1.md",
     "Neural Prediction - Forward Propogation.md",
     "Pasted image 20221128210030.png",
     "Pasted image 20221128210324.png",
-    "README.md",
     "grokking-deep-learning.pdf",
     "Data Processing.md"
   ]
