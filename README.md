@@ -7,3 +7,6 @@ Day 2 - Took  A break
 
 Day 3 - 
 + Completed 2 chapters of [[Grooking Deep Learning Notes| Grooking Deep Learning]] and mades notes on this 
+
+Day 4 - 30 Nov 2022 
+
