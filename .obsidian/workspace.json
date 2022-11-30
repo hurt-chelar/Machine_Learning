@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Neural Prediction - Forward Propogation.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Neural Prediction - Forward Propogation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Neural Prediction - Forward Propogation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Neural Prediction - Forward Propogation.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "ef342054f57b82f1",
   "lastOpenFiles": [
-    "Excalidraw/Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw.md",
-    "README.md",
-    "grokking-deep-learning.pdf",
-    "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
     "Grooking Deep Learning Notes.md",
-    "Grooking Deep Learning Notes Chapter 1.md",
+    "grokking-deep-learning.pdf",
     "Neural Prediction - Forward Propogation.md",
+    "Grooking Deep Learning Notes Chapter 1.md",
+    "README.md",
+    "Excalidraw/Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw.md",
+    "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
     "Pasted image 20221128210030.png",
     "Pasted image 20221128210324.png",
     "Data Processing.md"
