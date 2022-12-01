@@ -2,7 +2,7 @@
 ![[Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw]]
 
 #### Sample Program To Show How Prediction Works 
-https://colab.research.google.com/drive/1h4K69UEit8LFlp9n8W3y1O7IJYBgBpG0?usp=sharing
+![ ]https://colab.research.google.com/drive/1h4K69UEit8LFlp9n8W3y1O7IJYBgBpG0?usp=sharing
 
 ```python 
 weight = 0.1
@@ -25,3 +25,7 @@ predict = neural_network(input, weight)
 
 print(predict)
 ```
+
+
+
+##### Sample Neural Networks with multiple inputs : 
