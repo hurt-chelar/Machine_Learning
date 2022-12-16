@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Set Preperation ML.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Set Preperation ML.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Set Preperation ML.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Set Preperation ML.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,14 +150,14 @@
   "active": "5e57012af966a5d6",
   "lastOpenFiles": [
     "Neural Prediction - Forward Propogation.md",
-    "grokking-deep-learning.pdf",
-    "Grooking Deep Learning Notes.md",
-    "Data Set Preperation ML.md",
     "Grooking Deep Learning Notes Chapter 1.md",
-    "README.md",
+    "Grooking Deep Learning Notes.md",
+    "grokking-deep-learning.pdf",
+    "Data Set Preperation ML.md",
     "Excalidraw/Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw.md",
     "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
-    "Pasted image 20221128210030.png",
-    "Pasted image 20221128210324.png"
+    "Excalidraw/Drawing 2022-11-26 21.52.44.excalidraw.md",
+    "README.md",
+    "Pasted image 20221128210030.png"
   ]
 }
