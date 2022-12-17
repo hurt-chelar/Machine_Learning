@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Neural Prediction - Forward Propogation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaef84ce2d7d3370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vivek-Menon-Sir/Week 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Vivek-Menon-Sir/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Vivek-Menon-Sir/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Vivek-Menon-Sir/Week 1.md"
               }
             }
           }
@@ -147,16 +159,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e57012af966a5d6",
+  "active": "eaef84ce2d7d3370",
   "lastOpenFiles": [
     "Neural Prediction - Forward Propogation.md",
     "Grooking Deep Learning Notes Chapter 1.md",
     "Grooking Deep Learning Notes.md",
-    "grokking-deep-learning.pdf",
     "Data Set Preperation ML.md",
-    "Excalidraw/Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw.md",
-    "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
+    "grokking-deep-learning.pdf",
     "Excalidraw/Drawing 2022-11-26 21.52.44.excalidraw.md",
+    "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
+    "Excalidraw/Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw.md",
     "README.md",
     "Pasted image 20221128210030.png"
   ]

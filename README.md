@@ -1,4 +1,4 @@
-# Machine_Learning
+O# Machine_Learning
 Day 1 - Plan
 + I made the github repository and setup everything
 + Downloaded the resources from internet 
