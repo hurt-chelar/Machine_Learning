@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "grokking-deep-learning.pdf"
+                "file": "Ml - Preperation GeoEttan/grokking-deep-learning.pdf"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neural Prediction - Forward Propogation.md",
+                "file": "Ml - Preperation GeoEttan/Neural Prediction - Forward Propogation.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vivek-Menon-Sir/Week 1.md",
+                "file": "Vivek-Menon-Sir/Week 1 Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f9de796ddcbfe4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vivek-Menon-Sir/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1cc30350df8816e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React JS/React App Making.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vivek-Menon-Sir/Week 1.md",
+                "file": "React JS/React App Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vivek-Menon-Sir/Week 1.md",
+                "file": "React JS/React App Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vivek-Menon-Sir/Week 1.md"
+                "file": "React JS/React App Making.md"
               }
             }
           }
@@ -159,17 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eaef84ce2d7d3370",
+  "active": "a1cc30350df8816e",
   "lastOpenFiles": [
-    "Neural Prediction - Forward Propogation.md",
-    "Grooking Deep Learning Notes Chapter 1.md",
-    "Grooking Deep Learning Notes.md",
-    "Data Set Preperation ML.md",
-    "grokking-deep-learning.pdf",
+    "Vivek-Menon-Sir/Untitled.md",
+    "Vivek-Menon-Sir/Untitled 1.md",
+    "Vivek-Menon-Sir/Week 1 Plan.md",
+    "Ml - Preperation GeoEttan/Data Set Preperation ML.md",
+    "Ml - Preperation GeoEttan/Neural Prediction - Forward Propogation.md",
+    "Ml - Preperation GeoEttan/Grooking Deep Learning Notes Chapter 1.md",
+    "Ml - Preperation GeoEttan/Grooking Deep Learning Notes.md",
+    "Ml - Preperation GeoEttan/grokking-deep-learning.pdf",
     "Excalidraw/Drawing 2022-11-26 21.52.44.excalidraw.md",
-    "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md",
-    "Excalidraw/Neural Prediction - Forward Propogation 2022-11-28 21.28.47.excalidraw.md",
-    "README.md",
-    "Pasted image 20221128210030.png"
+    "Excalidraw/Grooking Deep Learning Notes Chapter 1 2022-11-28 21.03.50.excalidraw.md"
   ]
 }
